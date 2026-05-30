@@ -49,6 +49,4 @@ A two-part implementation: a Python training pipeline to produce a custom-traine
 
 ## Results
 
-| Round | Result |
-|---|---|
-| National (6th Kibo-RPC) | **9th place** |
+Finished **9th place** nationally in the 6th Kibo-RPC.
